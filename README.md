@@ -1,1 +1,3 @@
 # Linear-and-binary-search
+
+This is a C program to search an element in the array using either the linear search or binary search, based on user's choice....
